@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 540 180" width="100%" height="100%" fill="none">
+  <!-- Monogram Mark -->
+  <g id="logo-mark" transform="translate(10, 10)">
+    <!-- Dark Navy 'C' Geometry -->
+    <path d="M 120 28 
+             C 80 28, 24 54, 24 95 
+             C 24 136, 80 162, 120 162 
+             L 155 162 
+             L 155 128 
+             L 115 128 
+             C 85 128, 62 112, 62 95 
+             C 62 78, 85 62, 115 62 
+             L 135 62 
+             L 135 28 
+             Z" 
+          fill="#0D1B3E" />
+    
+    <!-- Red Geometric 'T' / Angular Construction Element -->
+    <path d="M 148 28 
+             L 245 28 
+             L 245 92 
+             L 218 92 
+             L 218 64 
+             L 192 64 
+             L 226 162 
+             L 182 162 
+             L 150 72 
+             L 136 72 
+             L 136 44 
+             L 148 28 
+             Z" 
+          fill="#E31E24" />
+  </g>
+
+  <!-- Typography -->
+  <g id="logo-text" transform="translate(265, 45)">
+    <!-- CONSTRUCTIONS in Navy Blue -->
+    <text x="0" y="44" 
+          font-family="Montserrat, 'Helvetica Neue', Arial, sans-serif" 
+          font-size="33" 
+          font-weight="800" 
+          letter-spacing="1.2" 
+          fill="#0D1B3E">CONSTRUCTIONS</text>
+          
+    <!-- TEMAmost in Red -->
+    <text x="12" y="86" 
+          font-family="Montserrat, 'Helvetica Neue', Arial, sans-serif" 
+          font-size="44" 
+          font-weight="800" 
+          letter-spacing="0.2">
+      <tspan fill="#E31E24">TEMA</tspan><tspan fill="#E31E24" font-weight="700">most</tspan>
+    </text>
+  </g>
+</svg>
