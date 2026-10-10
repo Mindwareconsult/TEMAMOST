@@ -277,10 +277,24 @@ export const Footer: React.FC<FooterProps> = ({ onNavigate, onOpenQuoteModal }) 
             </div>
           </div>
 
-          {/* Bottom Copyright & Disclaimer */}
-          <div className="pt-8 flex flex-col sm:flex-row items-center justify-between text-xs text-slate-500 gap-4">
-            <div>
-              © 2017 - {new Date().getFullYear()} Temamost Nigeria Ltd. All Rights Reserved. RC 1441087.
+          {/* Bottom Copyright, Credits & Disclaimer */}
+          <div className="pt-8 flex flex-col md:flex-row items-center justify-between text-xs text-slate-500 gap-4">
+            <div className="flex flex-col sm:flex-row items-center gap-2 sm:gap-3 text-center sm:text-left">
+              <span>
+                © 2017 - {new Date().getFullYear()} Temamost Nigeria Ltd. All Rights Reserved. RC 1441087.
+              </span>
+              <span className="hidden sm:inline text-slate-700">|</span>
+              <span>
+                Website developed by{' '}
+                <a
+                  href="https://mindwareconsult.com.ng/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-slate-400 hover:text-white transition-colors underline decoration-slate-600 hover:decoration-white font-medium"
+                >
+                  Mindware Consulting Ltd
+                </a>.
+              </span>
             </div>
             <div className="flex items-center gap-6 text-[11px]">
               <span className="hover:text-slate-400 cursor-pointer">Privacy Policy</span>

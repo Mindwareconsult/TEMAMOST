@@ -652,7 +652,7 @@ export const LEADERSHIP_TEAM: TeamMember[] = [
     role: 'Administrative / Finance Manager',
     specialization: 'Corporate Governance, Project Financial Control & Procurement Oversight',
     bio: 'Leads financial strategy, cost accounting, contract compliance, and administrative operations at Temamost. Ensures transparent budgeting, timely procurement financing, and disciplined fiscal governance on every client engagement.',
-    image: 'https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=800&q=80'
+    image: '/team/ogbonna.jpg'
   },
   {
     name: 'Engr. Daniel Oseahumen Jatto',
@@ -660,7 +660,7 @@ export const LEADERSHIP_TEAM: TeamMember[] = [
     role: 'Electrical & Electronic Engineer',
     specialization: 'High-Voltage Power Distribution, Building Automation & MEP Coordination',
     bio: 'Registered professional engineer directing high-voltage substation integration, industrial electrical reticulation, fire detection automation, and renewable energy systems across commercial and residential developments.',
-    image: 'https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=800&q=80'
+    image: '/team/jatto.jpg'
   },
   {
     name: 'Mike B. Teere',
@@ -668,7 +668,7 @@ export const LEADERSHIP_TEAM: TeamMember[] = [
     role: 'Environmental Engineering Manager',
     specialization: 'EIA Compliance, Coastal Drainage & Geotechnical Environmental Controls',
     bio: 'Oversees environmental impact assessments (EIA), sustainable site practices, stormwater drainage systems, and eco-friendly soil stabilization techniques adhering to federal and state environmental mandates.',
-    image: 'https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&w=800&q=80'
+    image: '/team/teere.jpg'
   },
   {
     name: 'Albert Ibinabo Light',
@@ -676,7 +676,7 @@ export const LEADERSHIP_TEAM: TeamMember[] = [
     role: 'Civil Engineer / Project Manager',
     specialization: 'Critical Path Site Scheduling, Quality Control & Subcontractor Governance',
     bio: 'Directs day-to-day site operations, structural concrete inspection, materials laboratory testing, and contractor scheduling. Specializes in fast-track execution while maintaining zero snags.',
-    image: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&w=800&q=80'
+    image: '/team/light.jpg'
   },
   {
     name: 'Akpobari Jeremiah Barisua',
@@ -684,7 +684,7 @@ export const LEADERSHIP_TEAM: TeamMember[] = [
     role: 'General Health, Safety & Environment (HSE) Manager',
     specialization: 'Occupational Site Safety, Risk Hazard Analysis & Emergency Protocols',
     bio: 'Leads Temamost’s safety-first culture. Enforces personal protective equipment (PPE) mandates, routine toolbox safety talks, risk mitigation, and strict zero-harm protocols across all live construction sites.',
-    image: 'https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=800&q=80'
+    image: '/team/barisua.jpg'
   }
 ];
 
